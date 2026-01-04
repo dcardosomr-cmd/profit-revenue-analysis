@@ -1,11 +1,8 @@
-# 💰 Profit & Revenue Analysis
-
-## 📊 Project Overview
-
+# Profit & Revenue Analysis
+## Project Overview
 This project provides a comprehensive SQL-based analysis of company profitability, revenue trends, and product performance. Using a sales database from a manufacturing company, this analysis explores various business metrics including profit margins, discount strategies, sales patterns, and product category performance to identify actionable business insights.
 
-## 🎯 Objectives
-
+## Objectives
 The primary objectives of this analysis are to:
 
 1. **Analyze Revenue and Profitability**: Calculate total revenue, costs, and profit margins across different time periods
@@ -15,8 +12,7 @@ The primary objectives of this analysis are to:
 5. **Product Association Analysis**: Find frequently purchased product combinations for cross-selling opportunities
 6. **Sales Drivers**: Understand customer buying reasons and motivations
 
-## 🔍 Key Analysis Areas
-
+## Key Analysis Areas
 ### 1. Revenue & Profit Analysis
 - Total revenue, cost, and profit by year, quarter, and month
 - Profit margin calculations at product and category levels
@@ -46,8 +42,7 @@ The primary objectives of this analysis are to:
 - Product category associations
 - Cross-selling opportunities
 
-## 📁 Repository Structure
-
+## Repository Structure
 ```
 profit-revenue-analysis/
 ├── sql/
@@ -118,8 +113,7 @@ These analyses can be used to:
 - **Resource Allocation**: Invest in categories and subcategories with best performance
 - **Sales Forecasting**: Use historical trends to predict future performance
 
-## 📝 Conclusions
-
+## Conclusions
 This comprehensive profit and revenue analysis provides actionable insights into:
 
 - **Product profitability** varies significantly by category and subcategory, with some products generating substantially higher margins
@@ -130,12 +124,10 @@ This comprehensive profit and revenue analysis provides actionable insights into
 
 The analysis enables data-driven decision-making for pricing, inventory, marketing, and product strategy, ultimately supporting improved profitability and revenue growth.
 
-## 📄 License
-
+## License
 This project is available for educational and analytical purposes.
 
-## 👤 Author
-
+## Author
 **dcardosomr-cmd**
 
 For questions or collaboration opportunities, please reach out through GitHub.
