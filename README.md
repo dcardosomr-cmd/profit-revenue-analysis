@@ -102,8 +102,7 @@ The SQL file is organized into the following sections:
 6. **Ranking Queries**: Monthly and quarterly performance rankings
 7. **Additional Insights**: Sales reasons, price trends, and product associations
 
-## 💡 Business Applications
-
+## Business Applications
 These analyses can be used to:
 
 - **Optimize Pricing Strategies**: Adjust prices based on margin analysis and discount effectiveness
